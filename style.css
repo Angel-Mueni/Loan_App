@@ -1,0 +1,43 @@
+body{
+    background: #313635;
+    font-family: sans-serif;
+  }
+  #loancal {
+width: 345px;
+border-radius: 25px;
+height: 420px;
+background-color: rgb(255, 166, 0);
+color: #fff;
+padding: 10px;
+margin: 100px auto;
+}
+h1 {
+font-size:30px;
+text-align: center;
+color: #f00f0f;
+margin-bottom: 35px;
+}
+.input{
+margin-left: 40px;
+margin-right: 40px;
+}
+p{
+color: #f00f0f;
+font-size: 20px;
+}
+input{
+width: 100%;
+height: 33px;
+background-color: #fffb00;
+border-radius: 25px;
+border: 0px;
+}
+
+#interest_rate {
+margin-left: 2px;
+}
+h2{
+ text-align: center;
+ color: #f00f0f;
+ margin-top: 35px;
+}
